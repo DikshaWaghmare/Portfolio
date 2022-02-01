@@ -1,0 +1,42 @@
+.container-main{
+    margin-top: 20px;
+    height:400px;
+    
+}
+.container-social-media{
+    padding:5px;
+    margin:10px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px black;
+    display:block;
+    height: 50px;
+    width: 50px;
+}
+.project-container{
+    box-shadow: 0px 0px 5px black;
+    padding:5px;
+    border-radius: 10px;   
+}
+.my-img{
+    height:170px;
+    width:160px;
+    border-radius: 50%;
+}
+.About{
+    font-size: 18px;
+}
+.Intro{
+    font-size: 30px;
+}
+.file-img{
+    height: 30px;
+}
+.button{
+    margin:5px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.social-media-icon{
+    height: 40px;
+    width: 40px;
+}
